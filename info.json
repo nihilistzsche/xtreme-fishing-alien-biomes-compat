@@ -1,0 +1,13 @@
+{
+  "name": "xtreme-fishing-alien-biomes-compat",
+  "version": "0.0.1",
+  
+  "title": "xtreme-fishing-alien-biomes-compat",
+  "description": "Fix for xtreme fishing when used with alien biomes (which removes the water-green tiles).",
+  
+  "author": "nihilistzsche",
+  "license": "GPL3",
+  
+  "dependencies": ["base >= 1.1.6", "xtreme-fishing", "alien-biomes"],
+  "factorio_version": "1.1"
+}
